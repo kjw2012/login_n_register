@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 40px;
+    font-family: 고딕;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    background-color: #2EFE2E;
+    padding: 10px;
+    font-family: 궁서;
+}
